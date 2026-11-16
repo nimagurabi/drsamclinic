@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کلینیک دکتر سام</string>
+    <string name="offline_title">عدم اتصال به اینترنت</string>
+    <string name="offline_message">لطفاً اتصال اینترنت خود را بررسی نموده و مجدداً تلاش فرمایید.</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="exit_prompt">جهت خروج، دوباره دکمه بازگشت را لمس کنید.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Modern security: Cleartext (http) is disabled by default for Google Play standards -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">drsamclinic.com</domain>
+        <domain includeSubdomains="true">shaparak.ir</domain>
+    </domain-config>
+</network-security-config>
