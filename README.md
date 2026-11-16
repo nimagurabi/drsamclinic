@@ -34,7 +34,7 @@ git init
 git add .
 git commit -m "Initial commit for Dr Sam Clinic Android App"
 git branch -M main
-git remote add origin https://github.com/نام_کاربری_شما/drsamclinic-app.git
+git remote add origin https://github.com/nimagurabi/drsamclinic.git
 git push -u origin main
 ```
 
